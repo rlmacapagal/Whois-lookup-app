@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Whois Lookup Application
 
 This is a full-stack application for performing Whois lookups. It consists of a React frontend and an Express/ Node.js backend.
@@ -39,3 +40,7 @@ WHOIS_API_KEY=<your-whois-api-key>
 Enter "npm run dev" in the terminal to start both applications concurrently
 Open your browser and navigate to http://localhost:5173.
 
+=======
+# Whois-lookup-app
+fullstack application that provides UI and backend for fetching data about url's using Whois App
+>>>>>>> fa9eeef35c513b037ec449753b249e8382727b49
